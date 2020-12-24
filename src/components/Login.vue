@@ -129,7 +129,7 @@ export default {
         //  为了测试登录方便，可以直接在这里写好用户名和密码的值
       },
       //  RegisterShow:false
-      // 测试上传码云
+      // 测试上传码云2
 
       rules: {
         //  rules 是elementui 中表单组件的，和prop一起对应
