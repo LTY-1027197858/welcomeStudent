@@ -1,0 +1,4 @@
+去node.js 官网下载node
+然后npm指令可以使用；
+
+在one_and_one 目录下 使用：  npm run serve
